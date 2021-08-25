@@ -1,1 +1,1 @@
-# brainTimer
+# BrainTimer
